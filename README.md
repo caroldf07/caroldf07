@@ -7,6 +7,7 @@ I'm just a 26 years-old girl who is moving from commercial area to front-end dev
 Nowadays I work for WEEL as Account Executive, I am also graduating in Analisis and Sistem Development at Anhanguera University and I am doing the Bootcamp FullStack Developer of RocketSeat.
 
 ## Which tools am I learning and using?
+- Java
 - Javascript
 - Node.JS
 - React
