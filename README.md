@@ -1,8 +1,4 @@
 # Carolina Fonseca
-- [Who am I?](## Who am I? 📝 "Who am I?")
-- [What do I do?](## What do I do? "What do I do?")
-- [Which tools am I learning?](## Which tools am I learning and using? :construction_worker: "Which tools am I learning?")
-- [What I want to do?](## What I want to do? 🚀 "What I want to do?")
 
 ## Who am I? 📝
 I'm just a 26 years-old girl who is moving from commercial area to development
