@@ -9,7 +9,9 @@ Nowadays I work for ZUP Innovation as Java Developer.
 
 ## Which tools am I learning and using? :construction_worker:
 - Java (my priority!)
+- Kotlin
 - Spring
+- Micronaut
 - Javascript
 - Node.JS
 
