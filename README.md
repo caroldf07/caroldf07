@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Carolina Dias Fonseca. I work as a Desenvolvedora Back-End Java/Kotlin at Zup Innovation.
+My name is Carolina Dias Fonseca. I work as a Back-End Developer Java/Kotlin at Zup Innovation.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=caroldf07&repo=caroldf07&countColorcountColor)
 
