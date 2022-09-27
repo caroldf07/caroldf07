@@ -26,4 +26,4 @@ My name is Carolina Dias Fonseca and I work as a Java/Kotlin Developer at CI&T.
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=caroldf07&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldf07&layout=compact)](https://github.com/caroldf07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldf07&layout=compact)](https://github.com/caroldf07/github-readme-stats)
