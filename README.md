@@ -3,10 +3,10 @@
 ==================================================================
 
 
-My name is Carolina Dias Fonseca and I work as a Software Engineer at Itaú Unibanco.
+My name is Carolina Nascimento and I work as a Software Engineer at Itaú Unibanco.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/carolina-fonseca-681b0a7a/"><img src="https://img.shields.io/badge/-Carolina Fonseca-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carolina-fonseca-681b0a7a/"><img src="https://img.shields.io/badge/-Carolina Nascimento-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/diariodeumacdf"><img src="https://img.shields.io/badge/-@diariodeumacdf-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://dev.to/diariodeumacdf"><img src="https://img.shields.io/badge/-diariodeumacdf-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
 </p>
