@@ -3,7 +3,7 @@
 ==================================================================
 
 
-My name is Carolina Dias Fonseca and I work as a Java/Kotlin Developer at CI&T.
+My name is Carolina Dias Fonseca and I work as a Software Engineer at Itaú Unibanco.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/carolina-fonseca-681b0a7a/"><img src="https://img.shields.io/badge/-Carolina Fonseca-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
